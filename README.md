@@ -1,20 +1,24 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Canva Pulse
 
-# Run and deploy your AI Studio app
+**Agentic Pre-Flight Layer for On-Brand Collaboration**
 
-This contains everything you need to run your app locally.
+Premium interactive presentation showcasing an intelligent AI-native system designed to eliminate last-mile brand compliance friction in Canva Teams & Enterprise.
 
-View your app in AI Studio: https://ai.studio/apps/26dc7f49-f092-4b55-bea7-4f00ad8ba1a5
+### Live Demo
+[→ View Live](https://canva-pulse.vercel.app)  
+*(Update link after Vercel deployment)*
 
-## Run Locally
+### About
+Built as the take-home assignment for the **Associate Product Manager – AI First** role at Eulerity.
 
-**Prerequisites:**  Node.js
+Canva Pulse demonstrates real-time guardrails, contextual assembly, and feedback loop learning — empowering local franchise teams to create on-brand content at speed while maintaining central governance.
 
+### Tech Stack
+- Next.js 15 (App Router)  
+- Tailwind CSS  
+- Framer Motion  
+- TypeScript
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+---
+
+Built with focus on premium design, smooth interactions, and thoughtful product thinking.
